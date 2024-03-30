@@ -1,0 +1,9 @@
+# Stow ignore git files
+\.git
+\.gitignore
+
+# Stow ignore common files
+^/README.*
+
+# Stow ignore custom
+\scripts
