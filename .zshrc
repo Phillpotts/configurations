@@ -11,7 +11,7 @@ plugins=(git web-search sudo zsh-syntax-highlighting zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 
 # aliases
-alias nvim="/home/william/Applications/nvim.appimage"
+alias nvim="~/Applications/nvim.appimage"
 
 # nvm configuration
 export NVM_DIR="$HOME/.nvm"
