@@ -15,6 +15,7 @@ return {
       python = { 'isort', 'black' },
       javascript = { { 'prettierd', 'prettier' } },
       typescript = { { 'prettierd', 'prettier' } },
+      terraform = { { 'terraformls' } },
     },
   },
 }
