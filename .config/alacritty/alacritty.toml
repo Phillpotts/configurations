@@ -20,7 +20,7 @@ family = "CaskaydiaCove Nerd Font"
 [window]
 startup_mode = "Maximized"
 dynamic_padding = true
-opacity = 0.9
+opacity = 1.0
 
 [window.padding]
 x = 6
