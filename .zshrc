@@ -25,3 +25,6 @@ eval "$(pyenv init -)"
 
 # go configuration
 export PATH=$PATH:/usr/local/go/bin
+
+# DirEnv configuration
+eval "$(direnv hook zsh)"
