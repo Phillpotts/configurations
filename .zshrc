@@ -12,6 +12,7 @@ source $ZSH/oh-my-zsh.sh
 
 # aliases
 alias nvim="~/Applications/nvim.appimage"
+alias docker="podman"
 
 # nvm configuration
 export NVM_DIR="$HOME/.nvm"
