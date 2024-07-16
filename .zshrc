@@ -33,3 +33,6 @@ export PATH=$PATH:/usr/local/go/bin
 
 alias nvim="~/Applications/nvim.appimage"
 alias obsidian="~/Applications/obsidian.appimage"
+
+# bun completions
+[ -s "/home/william/.bun/_bun" ] && source "/home/william/.bun/_bun"
