@@ -36,3 +36,7 @@ alias obsidian="~/Applications/obsidian.appimage"
 
 # bun completions
 [ -s "/home/william/.bun/_bun" ] && source "/home/william/.bun/_bun"
+
+# source
+source ~/configurations/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/configurations/zsh-autosuggestions/zsh-autosuggestions.zsh
