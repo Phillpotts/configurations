@@ -33,10 +33,13 @@ export PATH=$PATH:/usr/local/go/bin
 
 alias nvim="~/Applications/nvim.appimage"
 alias obsidian="~/Applications/obsidian.appimage"
+alias nm_ls="find . -name "node_modules" -type d -prune | xargs du -chs"
+alias nm_rm="find . -name "node_modules" -type d -prune -exec rm -rf '{}' +"
+alias lsa="ls -lart"
 
 # bun completions
 [ -s "/home/william/.bun/_bun" ] && source "/home/william/.bun/_bun"
 
 # source
-source ~/configurations/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/configurations/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/Configurations/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/Configurations/zsh-autosuggestions/zsh-autosuggestions.zsh
