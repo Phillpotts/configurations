@@ -1,0 +1,18 @@
+Bun
+Pyenv
+Nvm
+Brave
+Bitwarden
+Kitty Terminal
+Zsh
+Nvim
+Flameshot
+Steam
+Steam Devices
+Jq
+Rip Grep
+Git
+Fonts - Caskaydia Cove and Mono 
+Stow
+Rust
+Direnv

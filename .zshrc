@@ -29,6 +29,9 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # load go
 export PATH=$PATH:/usr/local/go/bin
 
+# load direnv
+eval "$(direnv hook zsh)"
+
 # Aliases
 
 alias nvim="~/Applications/nvim.appimage"
