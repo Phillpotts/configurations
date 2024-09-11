@@ -29,6 +29,10 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # load go
 export PATH=$PATH:/usr/local/go/bin
 
+# load deno
+export DENO_INSTALL="/home/william/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
+
 # load direnv
 eval "$(direnv hook zsh)"
 
