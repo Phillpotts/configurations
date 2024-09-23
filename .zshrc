@@ -30,7 +30,7 @@ export PATH=$BUN_INSTALL/bin:$PATH
 export PATH=$PATH:/usr/local/go/bin
 
 # load deno
-export DENO_INSTALL="/home/william/.deno"
+export DENO_INSTALL="$HOME/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
 
 # load direnv
