@@ -17,7 +17,4 @@ $ stow .
 
 ### Appplication Configurations
 
-- Alacritty
-- Nvim
-- Tmux
-- Zsh
+- bash

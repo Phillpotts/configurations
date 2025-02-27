@@ -6,4 +6,4 @@
 ^/README.*
 
 # Stow ignore custom
-\scripts
+application_names.txt

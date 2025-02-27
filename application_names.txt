@@ -3,9 +3,6 @@ Pyenv
 Nvm
 Brave
 Bitwarden
-Kitty Terminal
-Zsh
-Nvim
 Flameshot
 Steam
 Steam Devices
